@@ -108,14 +108,14 @@ Marketing-Performance-Dashboard/
 ├── requirements.txt
 ├── README.md
 ├── assets/
-│   ├── dashboard_overview.png
-│   ├── campaign_performance.png
-│   ├── channel_comparison.png
-│   ├── engagement_trends.png
-│   ├── sales_conversion.png
-│   ├── customer_analysis.png
-│   ├── target_audience_analysis.png
-│   └── language_analysis.png
+│   ├── Dashboard_Overview.png
+│   ├── Campaign_Performance.png
+│   ├── Channel_Comparison.png
+│   ├── Engagement_Trends.png
+│   ├── Sales_Conversion_Insights.png
+│   ├── Customer_Analysis.png
+│   ├── Target_Audience_Analysis.png
+│   └── Language_Analysis.png
 └── original_dataset.csv
 ```
 
@@ -159,49 +159,49 @@ The dashboard will open automatically in your default web browser.
 
 ## Dashboard Overview
 
-![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard Overview](assets/Dashboard_Overview.png)
 
 ---
 
 ## Campaign Performance
 
-![Campaign Performance](assets/campaign_performance.png)
+![Campaign Performance](assets/Campaign_Performance.png)
 
 ---
 
 ## Channel-wise Comparison
 
-![Channel Comparison](assets/channel_comparison.png)
+![Channel Comparison](assets/Channel_Comparison.png)
 
 ---
 
 ## Engagement Trends
 
-![Engagement Trends](assets/engagement_trends.png)
+![Engagement Trends](assets/Engagement_Trends.png)
 
 ---
 
 ## Sales Conversion Insights
 
-![Sales Conversion](assets/sales_conversion.png)
+![Sales Conversion](assets/Sales_Conversion_Insights.png)
 
 ---
 
 ## Customer Analysis
 
-![Customer Analysis](assets/customer_analysis.png)
+![Customer Analysis](assets/Customer_Analysis.png)
 
 ---
 
 ## Target Audience Analysis
 
-![Target Audience Analysis](assets/target_audience_analysis.png)
+![Target Audience Analysis](assets/Target_Audience_Analysis.png)
 
 ---
 
 ## Language Analysis
 
-![Language Analysis](assets/language_analysis.png)
+![Language Analysis](assets/Language_Analysis.png)
 
 ---
 
